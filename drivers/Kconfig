@@ -229,6 +229,4 @@ source "drivers/halls/Kconfig"
 
 source "drivers/trusty/Kconfig"
 
-source "drivers/oplus/Kconfig"
-
 endmenu
